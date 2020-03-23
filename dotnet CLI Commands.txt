@@ -57,6 +57,18 @@ appsettings.json
 
 - git add .
 - git commit -m "Initial Commit"
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/moon90/Reactivities.git
+git push -u origin master
+
+Credentials Chnage :
+
+https://medium.com/@impaachu/how-to-logout-from-git-in-windows-e17c66fe9ca8
+
+npm install axios
+npm install semantic-ui-react
 
 
 
